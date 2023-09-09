@@ -107,6 +107,7 @@ return {
     end
     dashboard.section.header.opts.hl = "AlphaHeader"
     dashboard.section.buttons.opts.hl = "AlphaButtons"
+    dashboard.section.buttons.opts.spacing = 0
     dashboard.section.footer.opts.hl = "AlphaFooter"
     dashboard.opts.layout[1].val = 0
     return dashboard
